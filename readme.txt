@@ -1,4 +1,5 @@
-:)
+Downloading:
+I tried to send the zip file over email but the email was bouncing back, to download the files from github press the green button that says code in the top right and press download zip.
 
 Installation:
 This was created using javascript, in order to run it without using a website you need node.js 
